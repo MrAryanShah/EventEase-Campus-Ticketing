@@ -1,4 +1,5 @@
 🎫 EventEase: Campus Ticketing System
+
 A real-time campus event ticketing and verification system built to replace manual entry logs with high-speed digital scanning.
 
 🚀 Key Features
