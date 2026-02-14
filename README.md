@@ -29,27 +29,30 @@ admin.html / organizer.html: Management dashboards for event staff.
 
 ## 🚀 Getting Started
 
-### Prerequisites
+Markdown
+## 🚀 Getting Started
+
+**Prerequisites**
 * Node.js installed on your machine.
 * A Firebase account for database hosting.
 
-### Step-by-Step Setup
+**Step-by-Step Setup**
 
 1. **Clone & Enter:**
 
-   ```bash
-   git clone [https://github.com/MrAryanShah/EventEase-Campus-Ticketing.git](https://github.com/MrAryanShah/EventEase-Campus-Ticketing.git)
+   ```bash```
+   git clone https://github.com/MrAryanShah/EventEase-Campus-Ticketing.git
    cd EventEase-Campus-Ticketing
-
+   
 2.**Install Packages:**
-```bash
-npm install```
+```bash```
+npm install
 
-3.Environment Setup:
-```bash
+3.**Environment Setup:**
+```bash```
 Create a .env file (refer to the .gitignore for what to exclude).
-Add your Firebase config keys.```
+Add your Firebase config keys.
 
-4.Launch:
-```bash
-Use VS Code Live Server to open index.html.```
+4.**Launch:**
+```bash```
+Use VS Code Live Server to open index.html.
