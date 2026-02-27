@@ -32,14 +32,19 @@ admin.html / organizer.html: Management dashboards for event staff.
 ## 📸 Screenshots
 
 ### 👨‍💼 Admin Panel
-![Admin Panel](screenshots/admin.png)
+<p align="center">
+  <img src="screenshots/admin.png" width="750"/>
+</p>
 
 ### 🧑‍🎓 Student View
-![Student View](screenshots/student.png)
+<p align="center">
+  <img src="screenshots/student.png" width="750"/>
+</p>
 
 ### 🗂 Organizer Dashboard
-![Organizer Dashboard](screenshots/organizer.png)
-
+<p align="center">
+  <img src="screenshots/organizer.png" width="750"/>
+</p>
 
 ## 🚀 Getting Started
 
