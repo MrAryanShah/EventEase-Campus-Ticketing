@@ -72,3 +72,7 @@ Add your Firebase config keys.
 4.**Launch:**
 
 Use VS Code Live Server to open index.html.
+## 🌐 Live Demo
+
+https://event-ease-campus-ticketing-d0zm0iacx.vercel.app/
+
